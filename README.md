@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhaveshNarain
 - 👀 I’m interested in fullstack dev across web and mobile (with hopes of getting into game dev at some point :) )
-- 🌱 I’m currently learning alot atm , but especially docker (a bit late to the party), WordPress - I think that there's some power in this platform.
+- 🌱 I’m currently learning about docker, javascript frameworks (angular and vue), entity framework and bus tech like RabbitMQ.
 - 💞️ I’m looking to collaborate on WordPress personalized plugins.
 - 📫 How to reach me bhaveshnarain@gmail.com.
